@@ -177,6 +177,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\cache\temp.txt" />
+    <Content Include="App_Data\db\Create.MsSql.sql" />
+    <Content Include="App_Data\db\Create.Sqlite.sql" />
+    <Content Include="App_Data\gitcore\git-receive-pack.exe" />
+    <Content Include="App_Data\gitcore\git-upload-archive.exe" />
+    <Content Include="App_Data\gitcore\git-upload-pack.exe" />
+    <Content Include="App_Data\gitcore\git.exe" />
+    <Content Include="App_Data\gitcore\libiconv-2.dll" />
+    <Content Include="App_Data\repository\temp.txt" />
     <Content Include="App_Data\Web.config" />
     <Content Include="bin\Web.config" />
     <Content Include="Content\bootstrap-responsive.css" />
